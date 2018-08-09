@@ -1,0 +1,22 @@
+{
+  "name": "JKCategoryKit",
+  "version": "1",
+  "summary": "A short description of JKCategoryKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/XUDAQUAN/JKCategoryKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "973157810@qq.com": "jackxu@4dxm.com"
+  },
+  "source": {
+    "git": "https://github.com/XUDAQUAN/JKCategoryKit.git",
+    "tag": "1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "JKCategoryKit/Classes/**/*"
+}
